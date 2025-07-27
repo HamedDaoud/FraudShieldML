@@ -97,7 +97,7 @@ credit-card-fraud-detection/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/HamedDaoud/credit-fraud-detection.git
-   cd credit-card-fraud-detection
+   cd credit-fraud-detection
    ```
 2. **Install Dependencies**:
    ```bash
