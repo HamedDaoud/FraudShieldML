@@ -29,6 +29,7 @@ This project delivers a production-ready system for identifying credit card frau
 | **Frontend**       | Streamlit                           |
 | **Backend**        | FastAPI, Uvicorn, Pydantic          |
 | **Utilities**      | Joblib, Pathlib, JSON               |
+| Python Version     | Python 3.10                         |
 
 ## Dataset
 
@@ -131,4 +132,4 @@ credit-card-fraud-detection/
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
