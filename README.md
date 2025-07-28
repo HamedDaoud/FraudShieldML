@@ -1,4 +1,4 @@
-# FraudShield
+# FraudShieldML
 
 A robust, end-to-end machine learning solution for detecting fraudulent credit card transactions, featuring a modular data pipeline, a high-performing Random Forest model, an interactive Streamlit web interface, and a FastAPI backend for real-time predictions.
 
@@ -64,7 +64,7 @@ This project delivers a production-ready system for identifying credit card frau
 ## Project Structure
 
 ```bash
-FraudShield/
+FraudShieldML/
 ├── assets/
 │   └── demo.gif
 ├── api/                  # FastAPI server
@@ -100,8 +100,8 @@ FraudShield/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/HamedDaoud/FraudShield.git
-   cd FraudShield
+   git clone https://github.com/HamedDaoud/FraudShieldML.git
+   cd FraudShieldML
    ```
 2. **Install Dependencies**:
    ```bash

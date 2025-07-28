@@ -9,7 +9,7 @@ from app.utils_streamlit import load_feature_names, fetch_dummy_sample, predict_
 
 # --- Config
 st.set_page_config(page_title="Fraud Detection App", layout="wide")
-st.title("💳 Credit Card Fraud Detection")
+st.title("💳 FraudShieldML")
 
 # --- Load features
 FEATURE_NAMES = load_feature_names()
