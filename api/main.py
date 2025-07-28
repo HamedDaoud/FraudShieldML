@@ -1,6 +1,8 @@
 # got to http://localhost:8000/docs to see the API documentation
 
-import os
+import os, sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 import joblib
 import json
 import numpy as np

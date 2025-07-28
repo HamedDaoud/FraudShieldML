@@ -2,6 +2,8 @@
 
 A robust, end-to-end machine learning solution for detecting fraudulent credit card transactions, featuring a modular data pipeline, a high-performing Random Forest model, an interactive Streamlit web interface, and a FastAPI backend for real-time predictions.
 
+![Demo](./assets/demo.gif)
+
 ## Overview
 
 This project delivers a production-ready system for identifying credit card fraud with a focus on scalability, modularity, and ease of use. Built on the Kaggle Credit Card Fraud Detection Dataset, it combines advanced preprocessing, a tuned machine learning model, and a seamless integration of a web UI and REST API.
@@ -62,7 +64,9 @@ This project delivers a production-ready system for identifying credit card frau
 ## Project Structure
 
 ```bash
-credit-card-fraud-detection/
+credit-fraud-detection/
+├── assets/
+│   └── demo.gif
 ├── api/                  # FastAPI server
 │   └── main.py
 ├── app/                  # Streamlit frontend
